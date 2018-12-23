@@ -26,6 +26,16 @@ fastlane ios build
 fastlane ios bump_version
 ```
 
+### ios beta_badge
+```
+fastlane ios beta_badge
+```
+
+### ios tag
+```
+fastlane ios tag
+```
+
 
 ----
 
